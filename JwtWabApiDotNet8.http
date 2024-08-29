@@ -1,0 +1,6 @@
+@JwtWabApiDotNet8_HostAddress = http://localhost:5066
+
+GET {{JwtWabApiDotNet8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
